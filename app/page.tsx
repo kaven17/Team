@@ -411,7 +411,7 @@ function HeroSection({ neon, theme }: { neon: string; theme: typeof THEMES[keyof
 
       <div style={{
         position: "absolute",
-        bottom: "6vh",
+        bottom: "10vh",
         left: "50%",
         transform: "translateX(-50%)",
         width: "min(860px, 88vw)",
